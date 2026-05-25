@@ -1,3 +1,3 @@
 ## Drohnensystem für die Stadt Nova Schilda
 
-Hierbei handelt es sich um ein Projekt aus dem dritten Semester an der [TH Aschaffenburg](https://www.th-ab.de/) für das Fach "Algorithmen und Datenstrukturen". Diese originale Prüfungsleistung ist als Teamleistung mit der Hilfe von [HIER NAMEN EINFÜGEN] entstanden. Diese neue Version wurde von mir, [Oliver Gütermann](https://github.com/OliverGue03), refaktorisiert. 
+Hierbei handelt es sich um ein Projekt aus dem dritten Semester an der [TH Aschaffenburg](https://www.th-ab.de/) für das Fach "Algorithmen und Datenstrukturen". Diese originale Prüfungsleistung ist als Teamleistung mit der Hilfe von [HIER NAMEN EINFÜGEN] entstanden. Diese neue Version wurde von mir, [Oliver Gütermann](https://github.com/OliverGue03), refaktorisiert. Das Drohnensystem wurde in der Sprache _Python_ ohne die Hilfe von externen Libraries verfasst.
